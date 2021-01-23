@@ -1,0 +1,32 @@
+[
+{
+    "UserId": 4,
+    "UserName": "Andreisadfgasd",
+    "UserEmail": "adsf",
+    "UserPassword": "proiect"
+},
+
+{
+    "BugId": 1,
+    "BugName": "bug1",
+    "BugSeverity": "sever",
+    "BugPriority": "forta",
+    "BugDescription": "descirere",
+    "BugLink": "link"
+},
+
+{
+    "ReportId": 1,
+    "ReportDate": "29-12-2020",
+    "ReportDescription": "reeeeeport",
+    "BugId": 2,
+    "UserId": 2
+},
+
+{
+    "StatusId": 5,
+    "StatusText": "adsf",
+    "BugId": "1"
+}
+
+]
